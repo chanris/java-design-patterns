@@ -22,6 +22,7 @@
         <module>structural-patterns/facade</module>
         <module>structural-patterns/flyweight</module>
         <module>structural-patterns/proxy</module>
+        <module>behavioral-patterns</module>
     </modules>
 
     <properties>

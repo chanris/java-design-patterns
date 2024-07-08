@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/command/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/command/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/cor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/cor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/iterator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/iterator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/mediator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/mediator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/memento/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/memento/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/observer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/observer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral-patterns/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/creational-patterns/builder/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/creational-patterns/builder/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/creational-patterns/factory/src/main/java" charset="UTF-8" />
