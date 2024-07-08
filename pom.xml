@@ -19,6 +19,9 @@
         <module>structural-patterns/bridge</module>
         <module>structural-patterns/composite</module>
         <module>structural-patterns/decorator</module>
+        <module>structural-patterns/facade</module>
+        <module>structural-patterns/flyweight</module>
+        <module>structural-patterns/proxy</module>
     </modules>
 
     <properties>

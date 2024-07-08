@@ -15,10 +15,18 @@
     <file url="file://$PROJECT_DIR$/structural-patterns/adpater/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural-patterns/bridge/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural-patterns/bridge/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-patterns/caching/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-patterns/caching/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural-patterns/composite/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural-patterns/composite/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural-patterns/decorator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural-patterns/decorator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-patterns/facade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-patterns/facade/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-patterns/flyweight/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-patterns/flyweight/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-patterns/proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural-patterns/proxy/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural-patterns/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural-patterns/src/main/resources" charset="UTF-8" />
   </component>
