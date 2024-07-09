@@ -5,24 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.chanris</groupId>
-        <artifactId>java-design-patterns</artifactId>
+        <artifactId>behavioral-patterns</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>behavioral-patterns</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>cor</module>
-        <module>command</module>
-        <module>iterator</module>
-        <module>mediator</module>
-        <module>memento</module>
-        <module>observer</module>
-        <module>state</module>
-        <module>strategy</module>
-        <module>template-method</module>
-        <module>visitor</module>
-    </modules>
+    <artifactId>state</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
